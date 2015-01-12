@@ -1,0 +1,20 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            UX n Stuff
+tagline:          A UX resource website
+url:              http://uxnstuff.github.io
+paginate:         10
+baseurl:          /
+author:
+  name:           UX n Stuff
+  url:            https://twitter.com/uxnstuff
+  email:          uxnstuff@gmail.com
+
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
